@@ -1,0 +1,13 @@
+.cabeçalho-moda {
+    background-color:#BB86FC;
+    color: azure;
+}
+.cabeçalho-casa {
+    background-color:#00C4B4;
+    color: azure;
+}
+
+.produtos-casa,.produtos-moda {
+    background-color: #424250;
+    color: azure;
+}
